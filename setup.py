@@ -8,6 +8,6 @@ setup(
     py_modules=['nvcc_plugin', 'v2.v2', 'v1.v1', 'c.c', 'cpp.cpp', 'verilog.verilog', 'java.java', 'gem5.gem5', 'valgrind.valgrind', 'common.helper'],
     url='htpps://github.com/canesche/nvcc4jupyter',
     license='LICENSE',
-    description='Jupyter notebook plugin to run CUDA C/C++, GCC code',
+    description='Jupyter notebook plugin to run CUDA C/C++, GCC code, Verilog, Gem5',
     # long_description=open('README.md').read(),
 )
