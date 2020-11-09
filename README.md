@@ -1,5 +1,6 @@
 # blind
-The following links provide  blind samples of the proposed Colab extensions to help the review process:
+The following links provide blind samples of the proposed Colab extensions to help the review process.
+Due to the double-blind review, we are not enabled to provide all labs. We hope that these samples are helpful to guide your evaluation. 
 
 * [Logic Synthesis](https://colab.research.google.com/drive/1_10RNeTwpIVCTVwfqG5MILwkxVbNIERm?usp=sharing)
 <img src="https://raw.githubusercontent.com/blindreviewsrc/blind/main/figures/full-adder.png" alt="blind" width="200"/> 
