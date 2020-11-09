@@ -1,4 +1,4 @@
-# blind
+# Lab Sample
 The following links provide blind samples of the proposed Colab extensions to help the review process.
 Due to the double-blind review, we are not enabled to provide all labs. We hope that these samples are helpful to guide your evaluation. 
 
