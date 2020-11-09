@@ -2,11 +2,10 @@
 The following links provide blind samples of the proposed Colab extensions to help the review process.
 Due to the double-blind review, we are not enabled to provide all labs. We hope that these samples are helpful to guide your evaluation. 
 
- [Logic Synthesis](https://colab.research.google.com/drive/1_10RNeTwpIVCTVwfqG5MILwkxVbNIERm?usp=sharing)
+ |[Logic Synthesis](https://colab.research.google.com/drive/1_10RNeTwpIVCTVwfqG5MILwkxVbNIERm?usp=sharing)
 <img src="https://raw.githubusercontent.com/blindreviewsrc/blind/main/figures/full-adder.png" alt="blind" width="200"/>  | [Verilog](https://colab.research.google.com/drive/1LNO9La-odQPiupedU1rGZ5AptbDUQEo9?usp=sharing)
-<img src="https://raw.githubusercontent.com/blindreviewsrc/blind/main/figures/verilog.png" alt="blind" width="200"/> 
-
----|---
+<img src="https://raw.githubusercontent.com/blindreviewsrc/blind/main/figures/verilog.png" alt="blind" width="200"/> |
+|---|---|
 
 
 * [MIPS pipeline in Verilog](https://colab.research.google.com/drive/18G56AdKuCbQ6s_n-s5cGQYa6aroKN3wK?usp=sharing)
