@@ -5,6 +5,7 @@ Due to the double-blind review, we are not enabled to provide all labs. We hope 
  [Logic Synthesis](https://colab.research.google.com/drive/1_10RNeTwpIVCTVwfqG5MILwkxVbNIERm?usp=sharing)
 <img src="https://raw.githubusercontent.com/blindreviewsrc/blind/main/figures/full-adder.png" alt="blind" width="200"/>  | [Verilog](https://colab.research.google.com/drive/1LNO9La-odQPiupedU1rGZ5AptbDUQEo9?usp=sharing)
 <img src="https://raw.githubusercontent.com/blindreviewsrc/blind/main/figures/verilog.png" alt="blind" width="200"/> 
+
 ---|---
 
 
