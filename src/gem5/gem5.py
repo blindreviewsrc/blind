@@ -8,7 +8,7 @@ from IPython.core.magic_arguments import argument, magic_arguments, parse_argstr
 import ipywidgets as widgets
 from IPython.display import display
 from ipywidgets import *
-from common import helper
+from src.common import helper
 
 ext = '.py'
 

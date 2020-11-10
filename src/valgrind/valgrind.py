@@ -7,7 +7,7 @@ from IPython.display import display
 
 from IPython.core.magic import Magics, cell_magic, magics_class
 from IPython.core.magic_arguments import argument, magic_arguments, parse_argstring
-from common import helper
+from src.common import helper
 
 compiler = '/usr/bin/g++'
 ext = '.cpp'
