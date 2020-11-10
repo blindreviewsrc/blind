@@ -8,9 +8,9 @@ from IPython.core.magic import Magics, cell_magic, magics_class
 from IPython.core.magic_arguments import argument, magic_arguments, parse_argstring
 from src.common import helper
 
-compiler = '/content/nvcc4jupyter/verilog/bin/iverilog'
-yosys_run = '/content/nvcc4jupyter/verilog/yosys'
-script_run = '/content/nvcc4jupyter/verilog/script.ys'
+compiler = '/content/blind/src/verilog/bin/iverilog'
+yosys_run = '/content/blind/src/verilog/yosys'
+script_run = '/content/blind/src/verilog/script.ys'
 ext = '.v'
 
 @magics_class
@@ -22,7 +22,7 @@ class VERILOGPlugin(Magics):
         self.permission()
     
     def permission(self):
-        args = ["chmod", "a+x", "-R", "/content/nvcc4jupyter/verilog/"]
+        args = ["chmod", "a+x", "-R", "/content/blind/src/verilog/"]
 
         output = subprocess.check_output(args, stderr=subprocess.STDOUT)
         output = output.decode('utf8')
